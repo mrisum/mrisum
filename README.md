@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Introduction
 
 **mrisum/mrisum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ⌨️
+
+## Projects
+- geemap: A Python Package
+
+
+## Demos
+
+This is a funny face!
+
+![gif](https://i.gifer.com/embedded/download/4j.gif)

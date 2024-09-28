@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 This is a funny face!
 
-![gif](https://i.gifer.com/embedded/download/4j.gif)
+![gif](https://i.gifer.com/4j.gif)
